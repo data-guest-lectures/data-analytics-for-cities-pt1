@@ -1,13 +1,13 @@
 layout:true
 
 <p class="footer">
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Data Analytics for Cities</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.datapolitan.com" property="cc:attributionName" rel="cc:attributionURL">Richard Dunks</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative-Commons-License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Data Analytics for Cities - Part 1</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.datapolitan.com" property="cc:attributionName" rel="cc:attributionURL">Richard Dunks</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative-Commons-License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
 </p>
 
 ---
 
 class: center,middle
-# Data Analytics for Cities
+# Data Analytics for Cities (Part 1)
 ## Intelligent Cities: Technology, Policy and Planning
 ## Richard Dunks
 ![img-center-small](images/datapolitan.png)
