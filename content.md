@@ -11,7 +11,7 @@ class: center,middle
 ## Intelligent Cities: Technology, Policy and Planning
 ## Richard Dunks
 ![img-center-small](images/datapolitan.png)
-### Follow along at: http://bit.ly/intel_cities
+### Follow along at: https://data-guest-lectures.github.io/data-analytics-for-cities-pt1
 
 ---
 
